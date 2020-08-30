@@ -14,3 +14,4 @@ by Luca
 
 Changelog:  
 - Rev. 0 --> first issue  
+- Rev. 1 --> changed "ECDSA (BTC/ETH compatible)" to "ECDSA (non BTC/ETH compatible)"  
